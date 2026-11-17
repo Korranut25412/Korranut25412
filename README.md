@@ -1,4 +1,4 @@
-﻿### Hi, I'm Korranut (Poom) 👋
+### Hi, I'm Korranut (Poom) 👋
 
 Data Science student (Year 2) at **Silpakorn University**, Thailand. I like turning messy real-world data into decisions — and building small tools that save me time every day.
 
